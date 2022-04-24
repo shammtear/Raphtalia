@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../Programs/gradle-7.4.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/client" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/discord" />
+            <option value="$PROJECT_DIR$/discord/commands" />
+            <option value="$PROJECT_DIR$/discord/gateway" />
+            <option value="$PROJECT_DIR$/website" />
+            <option value="$PROJECT_DIR$/website/api" />
+            <option value="$PROJECT_DIR$/website/auth" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
